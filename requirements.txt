@@ -1,0 +1,7 @@
+PyAutoGUI~=0.9.53
+PyGetWindow~=0.0.9
+torch~=2.0.0+cu118
+opencv-python~=4.7.0.72
+numpy~=1.24.1
+PyDirectInput~=1.0.4
+ultralytics~=8.0.82

@@ -19,4 +19,5 @@
 4.识别点位后可以再加一个随机加减点xy的策略，以及随机等待策略
 
 
-![答疑/一起学习Python](https://t.zsxq.com/0dtjBqLCR)
+# 答疑/一起学编程
+![答疑/一起学习Python](https://raw.githubusercontent.com/yuanyijie/blog/master/earth.png)

@@ -22,5 +22,4 @@
 # 答疑/一起学编程
 [知识星球](https://t.zsxq.com/0dtjBqLCR)
 
-![答疑/一起学习Python](https://t.zsxq.com/0dtjBqLCR)
-
+[![答疑/一起学习Python](https://github.com/yuanyijie/blog/blob/master/earth.png)](https://t.zsxq.com/0dtjBqLCR)

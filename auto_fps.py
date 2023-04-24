@@ -17,7 +17,7 @@ while True:
     distance = 999999
     for box in boxes:
         cls = box.cls.cpu().numpy().tolist()[0]
-        conf = boxes.conf.cpu().numpy().tolist()[0]
+        conf = box.conf.cpu().numpy().tolist()[0]
         # 只处理概率在0.7以上的点
         if cls == 0 and conf >= 0.7:
             xyxy = box.xyxy.cpu().numpy().tolist()[0]

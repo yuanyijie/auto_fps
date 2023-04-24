@@ -1,4 +1,4 @@
-# auto_fps（本项目只为学习Python使用）
+# auto_fps（本项目只为学习Python使用，请勿用在其他用途）
 
 # 注意事项
 1.需要用管理员权限运行，如果是用Pycharm运行先用管理员权限启动下Pycharm
@@ -9,17 +9,9 @@
 
 4.游戏里的鼠标灵敏度需要调低，不然会移动很大，我调的15
 
-# 优化点
-1.GPU越好推理性能越好，速度越快
-
-2.一些角落的小人图标也会被识别，代码里用规则排除了
-
-3.代码里用的还是基础模型，可以针对游戏预先训练模型，提高准确性
-
-4.识别点位后可以再加一个随机加减点xy的策略，以及随机等待策略
-
-
 # 答疑/一起学编程
-[知识星球](https://t.zsxq.com/0dtjBqLCR)
+[FPS数据集](https://universe.roboflow.com/jack-pkots/fps-rig2o/dataset/1)
+
+[知识星球学习答疑](https://t.zsxq.com/0dtjBqLCR)
 
 [![答疑/一起学习Python](https://github.com/yuanyijie/blog/blob/master/earth.png)](https://t.zsxq.com/0dtjBqLCR)

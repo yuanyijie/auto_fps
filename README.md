@@ -1,4 +1,4 @@
-# auto_fps（本项目只为学习Python使用，请勿用在其他用途）
+# auto_fps（本项目只为学习Python使用，请勿做其他用途）
 
 # 注意事项
 1.需要用管理员权限运行，如果是用Pycharm运行先用管理员权限启动下Pycharm
@@ -12,6 +12,8 @@
 # 答疑/一起学编程
 [FPS数据集](https://universe.roboflow.com/jack-pkots/fps-rig2o/dataset/1)
 
-[知识星球学习答疑](https://t.zsxq.com/0dtjBqLCR)
+[🌴知识星球学习答疑](https://t.zsxq.com/0dtjBqLCR)
+
+[㊙️Github限量新人券](https://t.zsxq.com/0dnh9ub9v)
 
 [![答疑/一起学习Python](https://github.com/yuanyijie/blog/blob/master/earth.png)](https://t.zsxq.com/0dtjBqLCR)
